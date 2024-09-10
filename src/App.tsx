@@ -1,5 +1,5 @@
-import "./App.css";
-import Canvas from "./components/Canvas";
+import "./styles/App.css";
+import Canvas from "./modules/Canvas";
 
 const App = () => {
   return (
